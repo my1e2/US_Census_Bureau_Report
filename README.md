@@ -1,4 +1,3 @@
-# DATA350
-Data Visualization Presentation 
+# Data Visualization Presentation 
 
-Repo for course materials, projects, and assignments
+Repo for project using U.S. Census Bureau data using R and valuable packages 
