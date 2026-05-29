@@ -1,7 +1,3 @@
-Now I have everything. Here's the enhanced README:
-
----
-
 # The Truth About America — U.S. Census Data Analysis
 
 **A visual exploration of economic, demographic, and social inequality across the United States using Census Bureau data.**
